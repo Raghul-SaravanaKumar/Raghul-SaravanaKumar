@@ -111,5 +111,5 @@ This reinforced one belief:
 ---
 
 <p align="center">
-  <i>“Progress may not always be visible, but learning will always stay.”</i>
+  <i><b>“Toppers are running on outdated OS. We just jailbroke the system and installed our own knowledge base.”</b></i>
 </p>
