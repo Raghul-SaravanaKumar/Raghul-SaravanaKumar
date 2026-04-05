@@ -1,25 +1,25 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raghul%20S&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%7C%20Backend%20Developer&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
+<!-- HEADER — animation removed, works on all GitHub profiles -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Raghul%20S&fontSize=65&fontColor=fff&fontAlignY=40&desc=Computer%20Science%20%26%20Engineering%20%7C%20Backend%20Developer&descSize=18&descAlignY=62&descColor=c4b5fd"/>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING SVG — most reliable typing animation for GitHub -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=for(Learn%3BCode%3BInnovate%2B%2B)+%7B+Practice+%7D;Backend+Developer+%F0%9F%9A%80;Building+Real-World+Applications+%F0%9F%94%A5;Consistency+Over+Shortcuts+%E2%9C%A8;CSE+Student+%7C+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=for(Learn%3BCode%3BInnovate%2B%2B)+%7B+Practice+%7D;Backend+Developer+%F0%9F%9A%80;Building+Real-World+Applications;Consistency+Over+Shortcuts+%E2%9C%A8;CSE+Student+%7C+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Raghul1815&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Raghul1815?style=for-the-badge&color=7c3aed&label=FOLLOWERS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-7c3aed?style=for-the-badge"/>
-</p>
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Raghul1815&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Raghul1815?style=for-the-badge&color=7c3aed&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-7c3aed?style=for-the-badge"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -28,38 +28,46 @@
 ```java
 public class Raghul extends Developer {
 
-    String name       = "Raghul S";
-    String degree     = "B.E Computer Science & Engineering";
-    String focus      = "Backend & Web Development";
-    String[] skills   = {"Java", "Spring Boot", "Python", "JavaScript", "SQL"};
-    boolean openToWork = true;
+    String  name      = "Raghul S";
+    String  degree    = "B.E. Computer Science & Engineering";
+    String  focus     = "Backend & Web Development";
+    String  location  = "Tamil Nadu, India";
+    boolean learning  = true;
 
-    String philosophy() {
+    String[] stack = {
+        "Java", "Spring Boot", "Python",
+        "JavaScript", "MySQL", "PostgreSQL"
+    };
+
+    String motto() {
         return "Skills matter more than graphs. Consistency always wins.";
     }
 
+    // My loop
     for (Learn; Code; Innovate++) {
         Practice();
     }
 }
 ```
 
+<br/>
+
 <table>
 <tr>
-<td>
+<td width="50%">
 
-### 🎯 Current Focus
-- 🔥 Building full-stack web applications
-- ⚙️ Deep-diving into **Spring Boot & REST APIs**
-- 🧠 Strengthening fundamentals daily
-- 🌐 Deploying real apps on cloud platforms
+**🎯 Current Focus**
+- 🔥 Full-stack web applications
+- ⚙️ Spring Boot & REST APIs
+- 🧠 Strengthening core fundamentals
+- ☁️ Deploying apps on cloud platforms
 
 </td>
-<td>
+<td width="50%">
 
-### ⚡ Quick Facts
+**⚡ Quick Facts**
 - 🎓 CSE Student
-- 💻 Backend & Web Dev Enthusiast
+- 💻 Backend & Web Dev
 - 🚀 Consistency over shortcuts
 - 📍 Tamil Nadu, India
 - 📧 iamraghul18@gmail.com
@@ -74,149 +82,112 @@ public class Raghul extends Developer {
 
 <div align="center">
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,php&theme=dark" />
-</p>
+**Languages**
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,php&perline=5"/>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,firebase,flask&theme=dark" />
-</p>
+**Frontend**
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=4"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgresql,firebase,flask&perline=5"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=5"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
+### 🏠 Nesamani — The Contractor Platform ⭐ Flagship
 
-| 🏷️ | Project | Tech Stack | Highlights |
-|---|---|---|---|
-| 🏠 | **Nesamani — Contractor Platform** | Spring Boot · PostgreSQL · JWT · Supabase · Render | Direct hiring, no middlemen |
-| 🏥 | **First Aid Emergency System** | Web · Social Impact | Hackathon project |
-| 🍎 | **Fruit Management System** | Java · JSP · MySQL | Inventory & operations |
-| 🏨 | **Hotel Booking System** | Java | Room booking & customer data |
-| 🧑‍🎓 | **Student ERP System** | PHP · Bootstrap | Attendance & academics |
-| 🏠 | **Hostel Management System** | Web | Room booking + food ordering |
-| 🌦️ | **Weather Report App** | Flask · Python | Real-time weather data |
-
-</div>
-
----
-
-### 🏠 Nesamani — The Contractor Platform ⭐ *Flagship Project*
-
-> **Direct worker hiring platform** built for Tamil Nadu. No middlemen. No agencies. Just direct connections between people who need work done and skilled workers who do it.
+> **Direct worker hiring platform** for Tamil Nadu. No middlemen. Just direct connections between people who need work and skilled workers who do it.
 
 ```
-Work Needer  ──► Posts a Job ──► Provider Responds ──► Needer Accepts ──► Booking ✅
-Work Needer  ──► Browses Services ──► Books Provider Directly          ──► Booking ✅
+NEEDER  ──► Posts Job   ──► Provider Responds ──► Needer Accepts ──► Booking ✅
+NEEDER  ──► Browses Services ──► Books Provider Directly         ──► Booking ✅
 ```
 
-<details>
-<summary>📖 Click to expand full details</summary>
-
-**Architecture**
-- 🍃 **Backend:** Spring Boot 3.2 · Java 17 · JWT Auth · REST API
-- 🐘 **Database:** PostgreSQL via Supabase (cloud)
-- 🌐 **Frontend:** Vanilla HTML · CSS · JavaScript
-- ☁️ **Deployment:** Render (backend live) · VS Code (frontend dev)
-- 🐳 **Container:** Docker
+| Layer | Tech |
+|---|---|
+| Backend | Spring Boot 3.2 · Java 17 · JWT Auth |
+| Database | PostgreSQL · Supabase (cloud) |
+| Frontend | HTML · CSS · Vanilla JS |
+| Deployment | Render (live) · Docker |
 
 **Key Features**
 - ✅ Role-based auth: `NEEDER` vs `PROVIDER`
-- ✅ Needer posts jobs → Providers respond → Needer accepts → Booking created
-- ✅ Provider uploads services → Needer browses → Books directly
-- ✅ Real-time notifications (auto-refresh every 30s)
-- ✅ JWT-secured REST endpoints
+- ✅ Jobs → Responses → Accept → Booking (Flow A)
+- ✅ Browse Services → Book directly (Flow B)
+- ✅ Real-time notifications (auto-refresh 30s)
 - ✅ Fully deployed on Render
 
-**API Endpoints**
-```
-POST /api/auth/register     POST /api/auth/login
-GET  /api/needer/dashboard  POST /api/needer/jobs
-GET  /api/needer/jobs/{id}/responses
-PUT  /api/needer/responses/{id}/accept → creates Booking
-GET  /api/provider/dashboard
-POST /api/provider/services POST /api/provider/jobs/{id}/respond
-GET  /api/jobs/open         GET  /api/services
-```
-
-**Live:** https://nesamani-backend-du3r.onrender.com
-
-</details>
+🔗 **Live:** https://nesamani-backend-du3r.onrender.com
 
 ---
 
 ### 🏥 First Aid Assistance for Emergency Healthcare
 
-> Emergency-focused system providing **quick first-aid guidance** before medical help arrives. Built for social impact in a hackathon setting.
+> Emergency system providing quick first-aid guidance before medical help arrives.
 
-- 💡 Real-time first-aid instructions for common emergencies
-- 🚑 Designed for speed — works under stress
-- 🏆 Hackathon-based **social impact project**
+- 🚑 Real-time first-aid instructions
+- 💡 Designed for speed — works under stress
+- 🏆 Built for a hackathon (social impact)
 
 ---
 
 ### 🍎 Fruit Management System
 
-> Full-stack web application to manage fruit inventory, track records, and streamline operations.
+> Full-stack web application for inventory management and operations.
 
 - ☕ **Tech:** Java · JSP · MySQL · Servlet
-- 📦 Inventory tracking, add/update/delete records
-- 🖥️ Clean web interface for operations management
+- 📦 Inventory tracking, add / update / delete
+- 🖥️ Clean web interface
 
 ---
 
 ### 🏨 Hotel Booking System
 
-> Java-based desktop/web application for managing hotel room bookings end-to-end.
+> Java application for room booking and customer management.
 
 - ☕ **Tech:** Java
-- 🛏️ Room availability checking
-- 👥 Customer data management & booking records
+- 🛏️ Room availability & booking
+- 👥 Customer records management
 
 ---
 
 ### 🧑‍🎓 Student ERP System
 
-> Complete student management portal covering academics, attendance and records.
+> Student management portal covering academics and attendance.
 
 - 🐘 **Tech:** PHP · Bootstrap · MySQL
-- 📊 Student records, attendance tracking
+- 📊 Student records & attendance
 - 📚 Academic management module
 
 ---
 
 ### 🏠 Hostel Management System
 
-> Combined room booking and food ordering system for hostel management.
+> Combined room booking and food ordering system.
 
 - 🛏️ Room booking & availability
-- 🍽️ Food ordering module integrated
+- 🍽️ Food ordering module
 - 👤 Student profile management
 
 ---
 
 ### 🌦️ Weather Report Application
 
-> Flask-based web app that fetches and displays real-time weather data.
+> Flask app showing real-time weather data by location.
 
 - 🐍 **Tech:** Flask · Python · Weather API
-- 🌡️ Real-time temperature, humidity, conditions
-- 🗺️ Location-based weather lookup
+- 🌡️ Temperature, humidity, conditions
+- 🗺️ Location-based lookup
 
 ---
 
@@ -224,12 +195,13 @@ GET  /api/jobs/open         GET  /api/services
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raghul1815&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghul1815&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&background=0d1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raghul1815&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa"/>
 
-<br/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Raghul1815&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul1815&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117"/>
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul1815&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa"/>
 
 </div>
 
@@ -238,14 +210,16 @@ GET  /api/jobs/open         GET  /api/services
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghul1815&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raghul1815&theme=tokyo-night&hide_border=true&area=true"/>
+
 </div>
 
-> 💡 *Due to an honest mistake, my GitHub contributions were reset after removing an email ID. While the graph disappeared, **the learning and experience stayed.** Skills matter more than graphs. Consistency always wins.*
+> 💡 *My GitHub contributions were reset after removing an email ID. While the graph disappeared, the learning stayed. Skills matter more than graphs.*
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -253,12 +227,12 @@ GET  /api/jobs/open         GET  /api/services
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://iamraghul.netlify.app" target="_blank">
+<a href="https://iamraghul.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 </a>
 &nbsp;
 <a href="mailto:iamraghul18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Raghul1815">
@@ -271,7 +245,7 @@ GET  /api/jobs/open         GET  /api/services
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer"/>
 
 *"Toppers are running on outdated OS. We just jailbroke the system and installed our own knowledge base."*
 
