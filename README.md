@@ -127,7 +127,6 @@ NEEDER  ──► Browses Services ──► Books Provider Directly         ─
 - ✅ Real-time notifications (auto-refresh 30s)
 - ✅ Fully deployed on Render
 
-🔗 **Live:** https://nesamani-backend-du3r.onrender.com
 
 ---
 
