@@ -246,7 +246,7 @@ NEEDER  ──► Browses Services ──► Books Provider Directly         ─
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer"/>
 
-*"Toppers are running on outdated OS. We just jailbroke the system and installed our own knowledge base."*
+*"Toppers are running on outdated OS. <br> We just jailbroke the system and installed our own knowledge base."*
 
 **⭐ Star my repos if you find them useful!**
 
