@@ -36,7 +36,7 @@ public class Raghul extends Developer {
 
     String[] stack = {
         "Java", "Spring Boot", "Python",
-        "JavaScript", "MySQL", "PostgreSQL"
+        "JavaScript", "MySQL", "PostgreSQL", "MongoDB"
     };
 
     String motto() {
