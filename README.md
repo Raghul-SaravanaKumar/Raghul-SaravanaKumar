@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER — animation removed, works on all GitHub profiles -->
+<!-- HEADER — animation removed, works on all GitHub profiles --> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Raghul%20S&fontSize=65&fontColor=fff&fontAlignY=40&desc=Computer%20Science%20%26%20Engineering%20%7C%20Backend%20Developer&descSize=18&descAlignY=62&descColor=c4b5fd"/>
 
 <!-- TYPING SVG — most reliable typing animation for GitHub -->
