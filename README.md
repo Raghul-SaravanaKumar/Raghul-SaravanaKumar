@@ -94,13 +94,14 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raghul1815&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa"/>
+<!-- Using direct Vercel URLs + cache breaker to avoid camo errors -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raghul1815&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&_t=1"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Raghul1815&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul1815&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul1815&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&_t=1"/>
 
 </div>
 
@@ -109,7 +110,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raghul1815&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raghul1815&theme=tokyonight&no-frame=true&row=1&column=6&_t=1"/>
 </div>
 
 ---
