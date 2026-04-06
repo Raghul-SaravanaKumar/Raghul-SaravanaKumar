@@ -105,15 +105,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raghul1815&theme=tokyonight&no-frame=true&row=1&column=6&_t=1"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
