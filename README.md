@@ -18,18 +18,14 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Raghul Saravanakumar**.
-
+Hi, I'm **Raghul Saravanakumar**  
 🎓 B.E. Computer Science & Engineering  
 💻 Java Backend Developer  
-🌐 Web Application Developer  
-🛠 Skilled in Java, Servlets, JSP, MySQL, Flask, Python, Bootstrap  
-📍 Tamil Nadu, India  
-📧 iamraghul18@gmail.com  
-🌐 Portfolio: https://iamraghul.netlify.app  
+🛠 Java | Servlets | JSP | MySQL | Flask | Python  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raghul-saravanakumar/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/raghul1815)
+🌐 Portfolio: https://iamraghul.netlify.app  
+🔗 LinkedIn: https://www.linkedin.com/in/raghul-saravanakumar/  
+🐙 GitHub: https://github.com/raghul1815
 
 > Building practical software, improving problem-solving, and growing as a software engineer.
 ---
