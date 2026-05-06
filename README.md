@@ -23,7 +23,7 @@
 - 📍 Tamil Nadu, India  
 - 📧 iamraghul18@gmail.com  
 - 🌐 [Portfolio](https://iamraghul.netlify.app)  
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raghul-saravanakumar/)
 > *"Skills matter more than graphs. Consistency always wins."*
 
 ---
