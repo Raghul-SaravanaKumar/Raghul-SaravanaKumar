@@ -25,7 +25,7 @@ Hi, I'm **Raghul SaravanaKumar**
 
 🌐 Portfolio: https://iamraghul.netlify.app  
 🔗 LinkedIn: https://www.linkedin.com/in/raghul-saravanakumar/  
-🐙 GitHub: https://github.com/raghul1815
+🐙 GitHub: https://github.com/Raghul-SaravanaKumar
 
 > Building practical software, improving problem-solving, and growing as a software engineer.
 ---
