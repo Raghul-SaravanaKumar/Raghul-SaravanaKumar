@@ -4,7 +4,7 @@
 
 ### Java Backend Developer | Computer Science Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+🚀;Building+Real-World+Applications;Problem+Solver+%7C+Consistent+Learner;CSE+Student+%7C+Software+Engineer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Building+Real-World+Applications;Problem+Solver+%E2%9C%A8;Software+Engineer" alt="Typing SVG" />
 
 <br/>
 
