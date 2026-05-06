@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Raghul Saravanakumar**  
+Hi, I'm **Raghul SaravanaKumar**  
 🎓 B.E. Computer Science & Engineering  
 💻 Java Backend Developer  
 🛠 Java | Servlets | JSP | MySQL | Flask | Python  
